@@ -42,6 +42,7 @@ systemctl daemon-reload
 systemctl enable vps-monitor
 systemctl start vps-monitor
 systemctl status vps-monitor
-
+```
+```
 systemctl restart vps-monitor
 ```
