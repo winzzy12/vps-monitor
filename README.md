@@ -1,4 +1,4 @@
-# SETUP TUTORIAL
+# SETUP 
 
 ```
 git clone https://github.com/winzzy12/vps-monitor
