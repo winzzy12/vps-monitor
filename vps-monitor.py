@@ -1,12 +1,3 @@
-```python
-#!/usr/bin/env python3
-"""
-VPS Monitor — Kirim status VPS + alert ke Telegram setiap 5 menit.
-Cek: IP public, uptime, RAM/CPU/disk usage, user login.
-Alert jika usage >= 90%.
-TOPIC_ID bersifat optional.
-"""
-
 import json
 import socket
 import subprocess
@@ -375,4 +366,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
