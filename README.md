@@ -1,4 +1,9 @@
-# SETUP 
+# Quick Setup
+```
+wget https://raw.githubusercontent.com/winzzy12/vps-monitor/main/vps-monitor.sh && chmod +x vps-monitor.sh && ./vps-monitor.sh
+```
+
+# SETUP MANUAL
 
 ```
 git clone https://github.com/winzzy12/vps-monitor
